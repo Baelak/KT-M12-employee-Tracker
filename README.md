@@ -3,7 +3,7 @@
   <img src="./Main/generatedQR.png" alt="Logo" style="max-height: 200px; max-width: 200px;">
 </div>
    
-## Employee 📎 Tracker
+## EMPLOYEE 📎 TRACKER
 
 ![Github license](https://img.shields.io/badge/license-ISC-green.svg)
 ## Description
@@ -18,7 +18,7 @@ https://github.com/Baelak/KT-M12-employee-Tracker
 * [Testing](#testing)
 * [Questions](#questions)
 ## Features
-It lets you perform three of the SQl functions of Creating, Reading, and Updating. When you add an employee you are able to add the department for the employee, add a role and even select the manager for the employee.
+It lets you perform three of the SQL functions of Creating, Reading, and Updating. When you add an employee you are able to add the department for the employee, add a role and even select the manager for the employee.
 ## Dependencies
 Inquirer and Pg
 ## Languages and Technologies:
