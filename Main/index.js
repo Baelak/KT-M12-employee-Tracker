@@ -6,7 +6,7 @@ async function mainMenu() {
         const { choice } = await inquirer.prompt({
             type: 'list',
             name: 'choice',
-            title: 'EMPLOYEE 📎 TRACKER',
+            message: 'EMPLOYEE 📎 TRACKER',
             message: 'What would you like to do?',
 
             choices: [
