@@ -7,7 +7,7 @@
 
 ![Github license](https://img.shields.io/badge/license-ISC-green.svg)
 ## Description
-This is an employee tracking application that is able to Create, Read and Update the database from the command line. It allows you to add a department , role, and employee. You also have the  option of updating employees records .
+This is an employee tracking application that is able to Create, Read and Update the database from the command line. It allows you to add a department , role, and employee. You also have the  option of updating employees records.
 ## Repository URL
 https://github.com/Baelak/KT-M12-employee-Tracker
 ## Table of Contents
